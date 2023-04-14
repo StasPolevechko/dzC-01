@@ -10,6 +10,6 @@ for (int i = 1; i <= userNamber; i++)
 {
     if (i % 2 == 0)
     {
-        Console.Write($" {userNamber} -> {i + ","} ");
+        Console.Write($"  {i + ","} ");
     }
 }
